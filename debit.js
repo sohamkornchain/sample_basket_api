@@ -15,7 +15,7 @@ console.log(`Calling: ${AUTH_URL}, using header: ${AUTH_HEADER}`);
 var data = {
     "programme_identifier": "TESTBASKETS1",
     "account_identifier": "U100029D",
-    "amount": 250,
+    "amount": 20,
     "currencyCode": "AED",
     "externalTransactionIdentifier": "20200618#0001",
     "externalTransactionDate": "2020-06-18T16:30:45.270+01:00",
